@@ -1,2 +1,4 @@
 # VulnScanner
-Advanced Algorithmic Vulnerability Scanner
+AA+ Vulnerability Scanner
+
+For EDUCATIONAL purposes only!
